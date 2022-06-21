@@ -29,3 +29,9 @@ Workflow???
 Untuk lihat current branch:
 - `git status`
 - `git branch`
+
+Untuk lihat history "commitan" pada current branch:
+- `git log`
+
+Bikin branch baru lagi untuk fitur "hello world":
+- `git checkout -b feat-hello-world`
