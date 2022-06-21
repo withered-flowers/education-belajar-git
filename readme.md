@@ -14,9 +14,18 @@ Workflow???
 
 1. Bikin / Inisialisasi Git
 
-`git init`
-`git add .`
-`git commit -m "blablala"`
-xxxxx `git push ` #dia bingung
-`git remote add origin https://github.com/withered-flowers/education-belajar-git.git`
-`git push --set-upstream (-u) origin master`
+- `git init`
+- `git add .`
+- `git commit -m "blablala"`
+- xxxxx `git push ` #dia bingung
+- `git remote add origin https://github.com/withered-flowers/education-belajar-git.git`
+- `git push --set-upstream (-u) origin master`
+
+1. Bikin branch baru
+
+"master"
+-> "development"
+
+Untuk lihat current branch:
+- `git status`
+- `git branch`
